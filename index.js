@@ -25,4 +25,5 @@ const server = http.createServer(function (req, res) {
     console.log(req.method);
     
   });
-server.listen(8080);
+server.listen(3000);
+// server.listen(8080);
